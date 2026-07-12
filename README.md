@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Ibvkvn
+- https://www.linkedin.com/in/ibukunoluwaabrahambolarinwa/
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning like 50 programming languages
 - 💞️ I’m looking to collaborate on mobile applications
