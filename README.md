@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ibvkvn
 - https://www.linkedin.com/in/ibukunoluwaabrahambolarinwa/
-- @reachibukunnow@gmail.com
+- reachibukunnow@gmail.com
 
 <!---
 Ibvkvn/Ibvkvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
